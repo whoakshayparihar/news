@@ -1,0 +1,9 @@
+.main_title{text-align:center;background-color:red;margin:auto}
+body,html{background-color:#eee}
+.card{height:40vh;margin:5vh}
+.card .card-body img{width:100%}
+.ak_title{margin:10px}
+.ak_subtitle{margin-left:10px;font-size:smaller;color:#696e79}
+.ak_subdec{color:#696e79;font-size:medium;max-height: 23vh;}
+.toggle{text-align:end;margin-top:10%}
+.ak_toggle{margin:0;max-height:200px;overflow:auto}
